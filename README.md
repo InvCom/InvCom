@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @InvPythonAG. I am a python software developer at INVENSITY. We have many interesting themes in Python, but also in the other programming languages and topics. Please take a look at our homepage https://www.invensity.com/ to learn more about us.
+- 👀 I’m interested in all topics related to software development with Python.
+- 🌱 I’m currently learning the development of desktop applications with PySide2.
+- 📫 How to reach me at my email address dimitri.schneider@invensity.com.
